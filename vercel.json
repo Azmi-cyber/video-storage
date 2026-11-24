@@ -1,0 +1,4 @@
+{
+  "framework": "nextjs",
+  "functions": { "app/video/[...url]/route.ts": { "maxDuration": 60 } }
+}
